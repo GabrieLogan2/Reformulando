@@ -17,7 +17,8 @@ const messages = [
   'Você e sua florzinha que eu fiz',
   'Nós dois, amo nós dois muitooo',
   'eu e tu, estaremos sempre assim',
-  'eu sei fazer looks, olha esse chapéu'
+  'eu sei fazer looks, olha esse chapéu',
+  'eu e o amor da minha vida, te amo'
 ];
 
 // Adiciona um evento de clique a cada imagem na galeria
