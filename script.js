@@ -15,7 +15,9 @@ const messages = [
   'Mc donalds, paracemos um quebra cabeça nessa foto',
   'A gente nossos bicos, é muito gostoso ter você comigo',
   'Você e sua florzinha que eu fiz',
-  'Nós dois, amo nós dois muitooo'
+  'Nós dois, amo nós dois muitooo',
+  'eu e tu, estaremos sempre assim',
+  'eu sei fazer looks, olha esse chapéu'
 ];
 
 // Adiciona um evento de clique a cada imagem na galeria
