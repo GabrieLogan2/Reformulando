@@ -18,7 +18,13 @@ const messages = [
   'Nós dois, amo nós dois muitooo',
   'eu e tu, estaremos sempre assim',
   'eu sei fazer looks, olha esse chapéu',
-  'eu e o amor da minha vida, te amo'
+  'eu e o amor da minha vida, te amo',
+  'O teu maior fofoqueiro',
+  'Você é mais linda que todas as flores',
+  'Nossos nomes eternizado em gravatá',
+  'eu e tu momo',
+  'eu feliz por ter tu cmg',
+  'foto no espelho de lei'
 ];
 
 // Adiciona um evento de clique a cada imagem na galeria
